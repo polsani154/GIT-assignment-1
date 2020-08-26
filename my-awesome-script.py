@@ -1,7 +1,7 @@
 #!/bin/python
 
 #enchancement-1
-print('Howdy, World!')
+print('Hello! World, we are one! .')
 
 #enhancement-2
 print('Hajimemashite sekai!')
